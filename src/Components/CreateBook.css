@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.create-book{
+    height: 200px;
+    background-color: aquamarine;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100%;
+}
+input{
+    height: 40px;
+    width: 20%;
+    border: 2px solid navy;
+    border-radius: 6px;
+    font-size: 23px;
+}
